@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @robertwilkinson9
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning react and typescript
-- 📫 How to reach me - robert.wilkinson.work@proton.me
+- 🌱 I’m currently learning react and typescript and docker and kubernetes
 
 <!---
 robertwilkinson9/robertwilkinson9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
